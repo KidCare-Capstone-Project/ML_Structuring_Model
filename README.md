@@ -1,7 +1,7 @@
 <h1 align="center">
   <img align="center" src="#" width="500"></img>
 <br>
-KID CARE CLOUD COMPUTING README
+MACHINE LEARNING README
 </h1>
 
 # Team Profile
@@ -26,8 +26,8 @@ KID CARE CLOUD COMPUTING README
 * Android Apps Development ( A211B4KY1765 - Hendriansyah Rizky Setiawan, A211B4KY2173 - Kenny Josiah Silaen )
 * Deployment Application ( C413B4KY4123 - Shandy Satria Nugraha, C764B4KX1539 - Fitri Sri Mulyani )
 
-# KidCare Cloud Computing Project
-This CC project is our final project for Google Bangkit Academy 2024 Batch 2.
+# KidCare Machine Learning Project
+This ML project is our final project for Google Bangkit Academy 2024 Batch 2.
 
 **Machine Learning:**
 [KidCare Machine Learning Apps Developments](https://github.com/KidCare-Capstone-Project/ML_Structuring_Model)
@@ -41,7 +41,7 @@ Stunting is a condition of chronic malnutrition experienced by children, which r
 
 KID CARE is here as a digital solution that provides information, education, and monitoring features for parents and health workers. Through this application, users will get guidance and tools to monitor child growth in order to prevent stunting as early as possible. This team developed an application that prioritizes easy access to information and monitoring of child development to help reduce stunting rates in Indonesia.
 
-**Cloud Computing:**
+**Machine Learning:**
 
 The KID CARE application is developed with Google Cloud technology to provide wide access and ease of use for the community. This application uses Android as the main platform because of its wide reach in Indonesia. The KID CARE application will use various features from Google Cloud Service such as:
 
@@ -84,7 +84,7 @@ The team will focus on developing and testing the following features:
   <img src="PATH" width="200">
 </p>
 
-## CloudComputing RoadMaps
+## Machine Learning RoadMaps
 - [x] [Node.js](https://nodejs.org)
 - [x] [Express FrameWork](https://hapi.dev)
 - [x] [Nodemon](https://www.npmjs.com/package/nodemon)
@@ -96,13 +96,13 @@ The team will focus on developing and testing the following features:
 - [x] [Cloud Storage](https://cloud.google.com/storage?hl=en)
 - [x] [Artifact Registery](https://cloud.google.com/artifact-registry/docs?hl=idhttps://cloud.google.com/artifact-registry/docs?hl=id)
 
-## Features
+## Adjustments bisa di ganti nanti
 - [x] Calculator stunting
 - [x] Payment
 
 ## Requirement
 * Python 10.15.0 or Higher
-* TensorFlow Lite
+* TensorFlow
 * Flask API
 * Numpay
 * Pandas
@@ -110,3 +110,4 @@ The team will focus on developing and testing the following features:
 
 
 ## Installation
+Step step instalasinya
