@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img align="center" src="#" width="500"></img>
-<br>
-MACHINE LEARNING README
+  <img align="center" src="./assets/Logo_KidCare.gif" width="500" />
+  <br>
+  MACHINE LEARNING README
 </h1>
 
 # Team Profile
@@ -29,8 +29,8 @@ MACHINE LEARNING README
 # KidCare Machine Learning Project
 This ML project is our final project for Google Bangkit Academy 2024 Batch 2.
 
-**Machine Learning:**
-[KidCare Machine Learning Apps Developments](https://github.com/KidCare-Capstone-Project/ML_Structuring_Model)
+**Cloud:**
+[KidCare Cloud Service](https://github.com/KidCare-Capstone-Project/Cloud_computing)
 
 **Mobile Development:**
 [KidCare Mobile Development Apps](https://github.com/KidCare-Capstone-Project/MobileDev_Apps)
@@ -39,11 +39,11 @@ This ML project is our final project for Google Bangkit Academy 2024 Batch 2.
 
 Stunting is a condition of chronic malnutrition experienced by children, which results in impaired physical growth and brain development. Children who experience stunting will be shorter than children of the same age, and are at risk of learning difficulties and poor health in the future. The causes of stunting vary, ranging from lack of access to adequate nutrition, parental knowledge about nutrition, to less supportive sanitation and environmental conditions.
 
-KID CARE is here as a digital solution that provides information, education, and monitoring features for parents and health workers. Through this application, users will get guidance and tools to monitor child growth in order to prevent stunting as early as possible. This team developed an application that prioritizes easy access to information and monitoring of child development to help reduce stunting rates in Indonesia.
+KidCare is here as a digital solution that provides information, education, and monitoring features for parents and health workers. Through this application, users will get guidance and tools to monitor child growth in order to prevent stunting as early as possible. This team developed an application that prioritizes easy access to information and monitoring of child development to help reduce stunting rates in Indonesia.
 
 **Machine Learning:**
 
-The KID CARE application is developed with Google Cloud technology to provide wide access and ease of use for the community. This application uses Android as the main platform because of its wide reach in Indonesia. The KID CARE application will use various features from Google Cloud Service such as:
+The KidCare application is developed with Google Cloud technology to provide wide access and ease of use for the community. This application uses Android as the main platform because of its wide reach in Indonesia. The KidCare application will use various features from Google Cloud Service such as:
 
 - Google Firestore for safe and structured storage of children's health data.
 
@@ -53,7 +53,7 @@ The KID CARE application is developed with Google Cloud technology to provide wi
 
 **Case:**
 
-In its implementation, the KID CARE application helps health workers and parents in overcoming the problem of stunting. For example, a mother in a remote area can use this application to monitor the development of her child's weight and height. Based on the inputted data, the application will provide a warning if there are indications of stunting in the child and provide recommendations for appropriate diet and nutrition patterns.
+In its implementation, the KidCare application helps health workers and parents in overcoming the problem of stunting. For example, a mother in a remote area can use this application to monitor the development of her child's weight and height. Based on the inputted data, the application will provide a warning if there are indications of stunting in the child and provide recommendations for appropriate diet and nutrition patterns.
 
 The team will focus on developing and testing the following features:
 
@@ -67,21 +67,9 @@ The team will focus on developing and testing the following features:
 
 - This application is expected to be an innovative solution that can help the government and society in reducing stunting rates and supporting the creation of a healthy and intelligent generation in Indonesia.
 
-## Screenshots
+## Documentation
 <p align="center">
-  <img src="PATH" width="200">
-</p>
-
-<p align="center">
-  <img src="path" width="200">
-</p>
-
-<p align="center">
-  <img src="PATH" width="200">
-</p>
-
-<p align="center">
-  <img src="PATH" width="200">
+  <img src="./assets/ML_Architecture.png" width="500">
 </p>
 
 ## Machine Learning RoadMaps
