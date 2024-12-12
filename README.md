@@ -104,7 +104,6 @@ The team will focus on developing and testing the following features:
 - Google Colab
 - TensorFlow 2.18.0
 - TensorFlow Lite
-- TensorFlow.js 4.22.0
 - Pandas 2.2.2
 - NumPy 1.26.4
 - Matplotlib 3.8.0
