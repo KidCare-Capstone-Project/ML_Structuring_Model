@@ -29,11 +29,11 @@
 # KidCare Machine Learning Project
 This ML project is our final project for Google Bangkit Academy 2024 Batch 2.
 
-**Cloud:**
-[KidCare Cloud Service](https://github.com/KidCare-Capstone-Project/Cloud_computing)
+**Cloud Computing:**
+[GitHub KidCare Cloud Computing](https://github.com/KidCare-Capstone-Project/Cloud_computing)
 
 **Mobile Development:**
-[KidCare Mobile Development Apps](https://github.com/KidCare-Capstone-Project/MobileDev_Apps)
+[GitHub KidCare Mobile Development](https://github.com/KidCare-Capstone-Project/MobileDev_Apps)
 
 **Project Background:**
 
@@ -67,7 +67,7 @@ The team will focus on developing and testing the following features:
 
 - This application is expected to be an innovative solution that can help the government and society in reducing stunting rates and supporting the creation of a healthy and intelligent generation in Indonesia.
 
-## Documentation
+## Documentation ML Architecture
 <p align="center">
   <img src="./assets/ML_Architecture.png" width="500">
 </p>
