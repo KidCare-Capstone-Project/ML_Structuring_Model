@@ -43,13 +43,13 @@ KidCare is here as a digital solution that provides information, education, and 
 
 **Machine Learning:**
 
-The KidCare application is developed with Google Cloud technology to provide wide access and ease of use for the community. This application uses Android as the main platform because of its wide reach in Indonesia. The KidCare application will use various features from Google Cloud Service such as:
+The KidCare application uses Machine Learning to predict stunting based on children's health data. The following tools and techniques will be used in the implementation:
 
-- Google Firestore for safe and structured storage of children's health data.
+- TensorFlow: Used to build and train the stunting prediction model using children's health data.
 
-- Cloud Storage for store unsructured storage, like foto, banner ETC.
+- TensorFlow Lite: Used to run the trained model on the Android app, enabling fast predictions on devices.
 
-- Cloud Run for Deployment Machine Learning API and Payment API, Link every Services apps need.
+- Google Colab: Used for developing and training the model in an easy to use environment.
 
 **Case:**
 
