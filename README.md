@@ -72,30 +72,45 @@ The team will focus on developing and testing the following features:
   <img src="./assets/ML_Architecture.png" width="500">
 </p>
 
-## Machine Learning RoadMaps
-- [x] [Node.js](https://nodejs.org)
-- [x] [Express FrameWork](https://hapi.dev)
-- [x] [Nodemon](https://www.npmjs.com/package/nodemon)
-- [x] [Eslint](https://eslint.org)
-- [x] [TensorFlow.js](https://www.tensorflow.org/js?hl=en)
-- [x] [Docker](https://docs.docker.com/reference/dockerfile)
-- [x] [Google Cloud Platform](https://cloud.google.com)
-- [x] [Cloud Run](https://cloud.google.com/run?hl=en)
-- [x] [Cloud Storage](https://cloud.google.com/storage?hl=en)
-- [x] [Artifact Registery](https://cloud.google.com/artifact-registry/docs?hl=idhttps://cloud.google.com/artifact-registry/docs?hl=id)
+## Machine Learning Roadmap  
 
-## Adjustments bisa di ganti nanti
-- [x] Calculator stunting
-- [x] Payment
+**Environment Setup**
+- [Google Colab](https://colab.research.google.com/) for ML development
+
+**Data Preprocessing**
+- [Pandas](https://pandas.pydata.org/) for data preprocessing
+- [NumPy](https://numpy.org/) for numerical computations
+
+**Data Visualization**
+- [Matplotlib](https://matplotlib.org/) for data visualization
+- [Seaborn](https://seaborn.pydata.org/) for enhanced data visualization
+
+**Imbalanced Data Handling**
+- [Imbalanced-learn](https://imbalanced-learn.org/stable/) for handling imbalanced datasets
+
+**Model Building and Training**
+- [TensorFlow](https://www.tensorflow.org/) for building and training ML models
+
+**Model Evaluation**
+- [Scikit-learn](https://scikit-learn.org/stable/) for evaluation metrics and model performance analysis
+
+**Model Deployment**
+- [TensorFlow Lite](https://www.tensorflow.org/lite) for deploying models on Android devices
+
+## Feature
+- Stunting Calculator
 
 ## Requirement
-* Python 10.15.0 or Higher
-* TensorFlow
-* Flask API
-* Numpay
-* Pandas
-* Google Cloud Platform
-
+- Google Colab
+- TensorFlow 2.18.0
+- TensorFlow Lite
+- TensorFlow.js 4.22.0
+- Pandas 2.2.2
+- NumPy 1.26.4
+- Matplotlib 3.8.0
+- Seaborn 0.13.2
+- Scikit-learn 1.5.2
+- Imbalanced-learn 0.12.4
 
 ## Installation
 Step step instalasinya
