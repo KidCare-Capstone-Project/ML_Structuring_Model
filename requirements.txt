@@ -1,0 +1,8 @@
+imbalanced-learn==0.12.4
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+seaborn==0.13.2
+tensorflow==2.18.0
+tensorflowjs==4.22.0
