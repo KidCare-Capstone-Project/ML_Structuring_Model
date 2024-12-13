@@ -94,7 +94,7 @@ The team will focus on developing and testing the following features:
 **Model Evaluation**
 - [Scikit-learn](https://scikit-learn.org/stable/) for evaluation metrics and model performance analysis
 
-**Model Deployment**
+**Model Conversion**
 - [TensorFlow Lite](https://www.tensorflow.org/lite) for deploying models on Android devices
 
 ## Feature
