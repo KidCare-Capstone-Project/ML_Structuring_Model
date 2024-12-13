@@ -111,5 +111,19 @@ The team will focus on developing and testing the following features:
 - Scikit-learn 1.5.2
 - Imbalanced-learn 0.12.4
 
-## Installation
-Step step instalasinya
+## Running the KidCare ML Notebook
+
+### 1. Download the Notebook and Dataset Files
+- **Download the notebook file**: [KidCare_Predict.ipynb](https://github.com/KidCare-Capstone-Project/ML_Structuring_Model/blob/main/notebook/KidCare_Predict.ipynb)
+- **Download the dataset file**: [Dataset_Stunting.csv](https://github.com/KidCare-Capstone-Project/ML_Structuring_Model/blob/main/dataset/Dataset_Stunting.csv)
+
+### 2. Open the Notebook in Google Colab
+- Go to [Google Colab](https://colab.research.google.com).
+- Click on **File > Upload notebook**, then select the `KidCare_Predict.ipynb` file downloaded earlier.
+
+### 3. Upload the Dataset to Google Colab
+- In Google Colab, go to the **Files** section on the left panel.
+- Click **Upload**, then select the dataset file to upload from the computer.
+
+### 4. Run the Notebook
+- After uploading the dataset, run all the cells in the notebook by selecting **Runtime > Run all**.
